@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+    <object model="testapp.employee" pk="1">
+        <field name="eno" type="IntegerField">101</field>
+        <field name="ename" type="CharField">Nishu</field>
+        <field name="esal" type="FloatField">80000.0</field>
+        <field name="eaddr" type="CharField">Nizamabad</field>
+    </object>
+    <object model="testapp.employee" pk="2">
+        <field name="eno" type="IntegerField">102</field>
+        <field name="ename" type="CharField">shoaib</field>
+        <field name="esal" type="FloatField">70000.0</field>
+        <field name="eaddr" type="CharField">Hyderabad</field>
+    </object>
+    <object model="testapp.employee" pk="3">
+        <field name="eno" type="IntegerField">103</field>
+        <field name="ename" type="CharField">Sudeep</field>
+        <field name="esal" type="FloatField">15000.0</field>
+        <field name="eaddr" type="CharField">Dubai</field>
+    </object>
+    <object model="testapp.employee" pk="4">
+        <field name="eno" type="IntegerField">104</field>
+        <field name="ename" type="CharField">Bunny</field>
+        <field name="esal" type="FloatField">20000.0</field>
+        <field name="eaddr" type="CharField">Kanteshwar</field>
+    </object>
+</django-objects>
